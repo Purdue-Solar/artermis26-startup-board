@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPSM84203")(type "KiCad")(uri "C:/Users/lilyr/Downloads/ul_TPSM84203EAB/KiCADv6/2025-07-15_00-32-31.kicad_sym")(options "")(descr ""))
+  (lib (name "ANT13SECQE")(type "KiCad")(uri "C:/Users/lilyr/Downloads/ul_ANT13SECQE/KiCADv6/2025-07-15_15-42-57.kicad_sym")(options "")(descr ""))
+  (lib (name "CDZVT2R3.3B")(type "KiCad")(uri "C:/Users/lilyr/Downloads/ul_CDZVT2R3-3B/KiCADv6/2025-07-17_13-10-34.kicad_sym")(options "")(descr ""))
+)
