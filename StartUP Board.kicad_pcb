@@ -5361,6 +5361,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "TOP - GND"
+		(at 136.25 62.5 90)
+		(layer "F.SilkS")
+		(uuid "edff15ea-3d2e-4275-8619-9bc203490935")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(dimension
 		(type orthogonal)
 		(layer "User.2")
