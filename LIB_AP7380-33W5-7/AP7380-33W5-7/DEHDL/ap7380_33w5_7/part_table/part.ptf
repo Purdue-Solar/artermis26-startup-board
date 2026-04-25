@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AP7380_33W5_7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Incorporated", "AP7380-33W5-7" (!) = "", "SOT95P285X140-5N", "SOT23 (5-Pin)", "621-AP7380-33W5-7", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP7380-33W5-7?qs=MHUP4w%2FlnDzyKn8exxYY8w%3D%3D", "Linear Voltage Regulator IC Positive Fixed 1 Output 150mA SOT-25", "https://www.diodes.com/assets/Datasheets/AP7380.pdf", "1.4 mm"
+END_PART
+
+END.

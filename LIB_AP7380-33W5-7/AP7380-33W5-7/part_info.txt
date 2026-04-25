@@ -1,0 +1,9 @@
+Manufacturer=Diodes Incorporated
+PartNumber=AP7380-33W5-7
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=2.1
+Released=2025-06-06 10:27:19
+Downloaded=2026-03-24 14:32:55
+3D=Y

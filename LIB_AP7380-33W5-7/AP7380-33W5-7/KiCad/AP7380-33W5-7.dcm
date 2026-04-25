@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP7380-33W5-7
+D Linear Voltage Regulator IC Positive Fixed 1 Output 150mA SOT-25
+K
+F https://www.diodes.com/assets/Datasheets/AP7380.pdf
+$ENDCMP
+#
+#End Doc Library

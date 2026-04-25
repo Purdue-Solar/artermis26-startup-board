@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3, C4",0805,4,0.1u,
+"C5, C6",0805,2,1 uF,
+IC1,AP7380-33W5-7,1,AP7380-33W5-7,
+J1,Molex_Micro-Fit_3.0_43650-0500_1x05_P3.00mm_Horizontal,1,Conn_01x05_Socket,
+"J2, J3, J5",Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal,3,~,
+J4,Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal,1,~,
+"R1, R2, R3, R4, R5, R6",0805,6,100k,
+U1,ANT13SEC_CRS,1,ANT13SECQE,
+U2,D16-M,1,CD4049UBDR,
