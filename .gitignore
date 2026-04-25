@@ -42,3 +42,15 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# 3D STEP exports (component libraries use .stp; board-level export not needed)
+*.step
+
+# Fabrication toolkit local settings
+fabrication-toolkit-options.json
+
+# Fabrication output backups
+production/backups/
+
+# Accidentally extracted repo zip
+artermis26-startup-board-main/
