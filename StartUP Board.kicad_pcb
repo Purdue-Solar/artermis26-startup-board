@@ -831,7 +831,7 @@
 			(uuid "c54a2eab-6149-43b3-b3fc-0c39dc75fac1")
 		)
 		(embedded_fonts no)
-		(model "AP7380-33W5-7.stp"
+		(model "${KIPRJMOD}/LIB_AP7380-33W5-7/AP7380-33W5-7/3D/AP7380-33W5-7.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1468,6 +1468,17 @@
 			(uuid "25a2b6a0-a6be-4fb8-9d56-b9d9c1e8bddb")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/ANT13SECQE/ANT13SECQE.stp"
+			(offset
+				(xyz 4.75 0 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -1937,15 +1948,15 @@
 			(uuid "f4227aa4-352e-416b-a4a6-8fadb5b719a0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/436500200/436500200.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.5 9 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -2695,15 +2706,15 @@
 			(uuid "f824dac1-f782-4baf-a865-ecc414fc4d8c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/768250002/768250002.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 11.5 14 4)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -3390,15 +3401,15 @@
 			(uuid "71db1d14-36d2-462f-87cb-eac1d8e92293")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/436500200/436500200.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.5 9 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -3717,15 +3728,15 @@
 			(uuid "ad0f6192-d99b-4076-b112-99ee5f02697b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/436500200/436500200.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.5 9 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -5095,6 +5106,17 @@
 			(uuid "6ac81b28-55ea-4c97-b3fd-76e45ddb4f51")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/CD4049UBDR/D0016A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -5640,15 +5662,15 @@
 			(uuid "712b6580-5661-4964-882f-e2dead16aa58")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Micro-Fit_3.0_43650-0500_1x05_P3.00mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/436500500/436500500.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 6 9 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
