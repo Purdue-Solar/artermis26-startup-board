@@ -1,4 +1,4 @@
-PSR Startup Board - Artemis 2026
+PSR Startup Board - Artemis 2027
 
 The purpose of this board is to activate the power distro board and indicate to the power distro board which mode of operation the car should be in. There is also a forward neutral reverse switch, which goes to the steering wheel. 
 
